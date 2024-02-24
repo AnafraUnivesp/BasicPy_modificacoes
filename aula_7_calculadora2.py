@@ -45,13 +45,14 @@ class Calculadora:
 
     def resto(self, a, b):
         return a % b
+if __name__ == '__main__':
 
-calculadora = Calculadora # ao instanciar a calculadora eu não informo valor nenhum
-print(calculadora.soma(0,3,4))
-print(calculadora.subtracao(0,3,4))
-print(calculadora.multiplicacao(0,3,4))
-print(calculadora.divisao(0,3,4))
-print(calculadora.resto(0,3,4))
+    calculadora = Calculadora # ao instanciar a calculadora eu não informo valor nenhum
+    print(calculadora.soma(0,3,4))
+    print(calculadora.subtracao(0,3,4))
+    print(calculadora.multiplicacao(0,3,4))
+    print(calculadora.divisao(0,3,4))
+    print(calculadora.resto(0,3,4))
 
 
 
