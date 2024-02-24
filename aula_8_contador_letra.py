@@ -5,6 +5,11 @@ def contador_letras(lista_palavras):
         contador.append(quantidade)
     return contador
 
+def teste():
+    return 'teste'
+
 if __name__ == '__main__':
-    lista = ['cachorro', 'gato']
+    lista = ['cachorro', 'gatop','papagaio']
+    total_letras = contador_letras(lista)
     print(contador_letras(lista))
+    print(teste())
