@@ -1,3 +1,11 @@
+# Detalhes destas Aula
+
+# Condicional comando IF
+# Condicional comando ELSE
+# Condicional comando ELIF
+# Operadores Lógicos(AND, OR, NOT)
+
+
 #a = input('Primeiro Valor: ')  #formato em string necessario conversao
 #b = input('Segundo Valor: ') #formato em string necessario conversao
 

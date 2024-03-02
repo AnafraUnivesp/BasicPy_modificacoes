@@ -1,3 +1,10 @@
+# Detalhes desta Aula
+
+#Comando FOR
+#Comando WHILE
+#Comando Range (Para gerar números sequenciais)
+
+
 # a = int(input('Entre com um número: '))
 # for x in range(1, a + 1):
 #     resto = a % x

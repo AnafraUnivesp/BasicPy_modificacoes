@@ -1,3 +1,12 @@
+# Detalhes destas Aula
+
+# Variáveis
+# Manipulação de Variáveis
+# Conversões
+# Operadores Aritméticos
+# Strings
+# Interação com o usuário
+
 a = 10
 b = 5
 a = int(input('Entre com o 1° número: '))

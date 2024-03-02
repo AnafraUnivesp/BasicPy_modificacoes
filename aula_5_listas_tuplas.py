@@ -1,3 +1,13 @@
+# Detalhes desta Aula
+
+#Criando uma lista
+#Manipular Listas
+#Realizar Operações com a Lista
+#O que é uma tupla
+#Como interagir com as tuplas
+#Conversões de listas e tuplas
+
+
 lista = [1, 3, 5, 7] #a lista sempre estará dentro de um colchetes
 lista_animal = ['cachorro', 'gato', 'elefante', 'lobo', 'arara']
 #print(type (lista))
