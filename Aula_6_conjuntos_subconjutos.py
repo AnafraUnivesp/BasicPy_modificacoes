@@ -1,3 +1,11 @@
+#Detalhes desta aula
+# O que é um conjunto?
+# Método de União
+# Método de Intersecção
+# Método de Diferença
+# Método de diferença Simétrica
+# Remoção de duplicidade delistas utilizando conjuntos
+
 #Conjuntos Aritméticos
 
 #Para criar um conjunto eu utilizo chaves {}

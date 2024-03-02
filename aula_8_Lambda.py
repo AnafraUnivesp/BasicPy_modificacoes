@@ -1,3 +1,10 @@
+# Detalhes desta Aula
+
+# Como realizar importação de módulos ( lambda)
+# Entendendo a importancia de se trabalhar com vários módulos
+# Acessando métodos e classes de um módulo
+# Entendendo e trabalhando com funções anônimas
+
 contador_letras = lambda lista: [len(x) for x in lista] #lista utilizo colchetes lens, quantidade de letras que tem no x
 lista_animais = ['cachorro','gato','elefante','cachorro']
 print(contador_letras(lista_animais))

@@ -1,3 +1,11 @@
+# Detalhes desta aula
+
+# Contruindo métodos e funções
+# Como declarar métodos e funções
+# Vantagens de se utilizar métodos e funções
+# Como implementar o Class
+# Vantagens de se utilizar classes
+
 #Função ( tudo o que retorna valor) | método ( é aquilo que não retorna valor e no python é chamado definição (def)
 #
 # def soma (a,b):

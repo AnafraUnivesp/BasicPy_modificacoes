@@ -1,4 +1,11 @@
+# Detalhes desta Aula
 
+# Como gerar e escrever um arquivo
+# Como ler informações de um arquivo
+# Como trabalhar com as informações de um arquivo
+# Como trabalhar melhor com strigs
+# Mais um pouco de lambda
+# Como copiar e mover arquivos
 
 import shutil
 def escrever_arquivo(texto):  #metodo escrever arquivo
