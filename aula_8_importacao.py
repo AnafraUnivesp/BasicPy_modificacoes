@@ -10,6 +10,7 @@ if __name__ == '__main__':
     calculadora = Calculadora(5, 10)
     print(calculadora.soma())
     lista = ['cachorro','gato', 'elefante']
-    print('total de lestras por palavras da lista: {}'.format(total_letras))
+    total_letras =  contador_letras(lista)
+    print('total de letras por palavras da lista: {}'.format(total_letras))
     print(teste())
 
